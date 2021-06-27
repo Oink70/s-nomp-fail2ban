@@ -15,4 +15,4 @@ maxretry = 30
 bantime = 3600
 ```
 
-Put z-nomp.conf in /etc/fail2ban/filters.d
+Put s-nomp.conf in /etc/fail2ban/filters.d
