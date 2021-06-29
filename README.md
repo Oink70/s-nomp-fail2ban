@@ -1,4 +1,4 @@
-# z-nomp-fail2ban
+# s-nomp-fail2ban
 fail2ban filters for s-nomp
 
 /etc/fail2ban/jails.d, add to the current active *.conf file.
