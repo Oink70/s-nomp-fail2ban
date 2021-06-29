@@ -25,4 +25,4 @@ maxretry = 10
 bantime = 3600
 ```
 
-Put s-nomp.conf in /etc/fail2ban/filters.d
+Put `s-nomp.conf` and `s-nomp-InvalidBytes.conf` in `/etc/fail2ban/filters.d`
